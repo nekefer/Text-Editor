@@ -1,6 +1,6 @@
 # **Terminal-Based Text Editor**
 
-Welcome to my terminal-based text editor project! This project is a personal challenge where I am building a text editor from scratch using Python. I will document my learning process and share my progress, hoping we can all learn together.
+Welcome to my terminal-based text editor project! This project is a personal challenge where I am building a text editor from scratch using Python.
 
 ---
 
