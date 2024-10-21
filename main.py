@@ -52,12 +52,10 @@ def createNewFile(stdscr):
     text = [GapBuffer()]
     current_row, current_col = 0, 0
     top_line = 0
-    my = 0
-    mx = 0
 
     while True:
         stdscr.clear()
-        stdscr.addstr(0, 0, f"Create a new file (Ctrl+G: save, Ctrl+C: exit) 'You clicked at {my}, {mx}'")
+        stdscr.addstr(0, 0, f"Create a new file (Ctrl+G: save, Ctrl+C: exit)")
         #col row
         curses.mousemask(curses.ALL_MOUSE_EVENTS)
 
