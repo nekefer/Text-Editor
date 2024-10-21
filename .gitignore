@@ -157,6 +157,8 @@ cython_debug/
 
 # test file
 test1.py
+test2.py
+test3.py
 
 # PyCharm
 #  JetBrains specific template is maintained in a separate JetBrains.gitignore that can
